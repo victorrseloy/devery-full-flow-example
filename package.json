@@ -6,5 +6,8 @@
   "dependencies": {
     "@devery/devery": "^0.2.9",
     "ethers": "4.0.48"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
