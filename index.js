@@ -31,9 +31,8 @@ function flow(log) {
   return async () => {
     log("starting");
 
-    const walletPrivateKey =
-      "b24ef1dad5de14254633bfe8e5523a3d3d71377517813200844be6584fd60282";
-    const myAddress = "0xdA20a51A7d085c40c16D569Af489F2E7319251fd";
+    const walletPrivateKey = "ENTER YOUR KEY HERE";
+    const myAddress = "ENTER YOUR ADDRESS HERE";
     networkId = 3;
     const provider = new ethers.getDefaultProvider("ropsten");
 
