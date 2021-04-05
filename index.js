@@ -31,7 +31,7 @@ function flow(log) {
   return async () => {
     log("starting");
 
-    walletPrivateKey =
+    const walletPrivateKey =
       "b24ef1dad5de14254633bfe8e5523a3d3d71377517813200844be6584fd60282";
     const myAddress = "0xdA20a51A7d085c40c16D569Af489F2E7319251fd";
     networkId = 3;
