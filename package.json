@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@devery/devery": "^0.2.9",
+    "@devery/devery": "^0.3.2",
     "ethers": "4.0.48"
   },
   "scripts": {
